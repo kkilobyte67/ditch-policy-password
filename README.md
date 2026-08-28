@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [DISCLAIMER!!!](#disclaimer)
-* [Policy-password.md](#policy-password.md)
+* [Policy-password.md](policy-password.md)
 
 # A guide on how to get your school's Wi-Fi password
 
